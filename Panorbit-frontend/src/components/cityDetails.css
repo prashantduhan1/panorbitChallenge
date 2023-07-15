@@ -1,0 +1,31 @@
+.city-details-container {
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  .city-details-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .city-details-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .city-details-key {
+    font-weight: bold;
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .city-details-value {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  button {
+    margin-bottom: 10px;
+  }
+  

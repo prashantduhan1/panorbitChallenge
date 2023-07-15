@@ -1,0 +1,60 @@
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.login-container h2 {
+  margin-bottom: 20px;
+}
+
+.login-container form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.login-container label {
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.login-container input {
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.login-container button {
+  padding: 10px 20px;
+  background-color: #4287f5;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.login-container button:hover {
+  background-color: #1a69c1;
+}
+
+.login-container h4 {
+  margin-top: 10px;
+  color: #ff0000;
+}
+
+.login-container div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.login-container h5 {
+  margin-right: 5px;
+}
